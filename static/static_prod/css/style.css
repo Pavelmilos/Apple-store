@@ -1,0 +1,26 @@
+html, body{
+    height: 100%;
+    max-height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #edeef0;
+}
+
+.section-top{
+    margin: 20px;
+}
+
+.product-item{
+    height: 360px;
+    background-color: white;
+    border: 1px solid lightgray;
+    position: relative;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.add-to-card-btn{
+    position: absolute;
+    bottom: 15px;
+    left: 50px;
+}
